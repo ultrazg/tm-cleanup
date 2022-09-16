@@ -9,7 +9,7 @@
 // @match               *://*.csdn.net/*
 // @match               *://blog.csdn.net/*
 // @icon                https://ossweb-img.qq.com/images/lol/img/spell/SummonerBoost.png
-// @require             https://www.unpkg.com/jquery.cookie@1.4.1/jquery.cookie.js
+// @require             https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery-cookie/1.4.1/jquery.cookie.min.js
 // @license             WTFPL
 // ==/UserScript==
 
