@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                净化
-// @version             1.1.1
+// @version             1.1.0
 // @description         百度、CSDN页面增强工具
 // @author              g0blin
 // @match               *://baike.baidu.com/item/*
@@ -16,7 +16,7 @@
 (function () {
     'use strict';
 
-    const VERSION = '1.1.1';
+    const VERSION = '1.1.0';
     const BAIDU_URL_REG = RegExp('baidu.com');
     const CSDN_URL_REG = RegExp('csdn.net');
     const CURRENT_URL = window.location.href;
