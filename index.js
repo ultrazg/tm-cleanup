@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name                净化-开发版
-// @version             1.2.0
+// @name                净化
+// @version             1.2.1
 // @description         页面增强工具。目前支持CSDN、百度、简书、掘金。
 // @author              g0blin
 // @namespace           https://github.com/ultrazg/tm-cleanup
@@ -20,7 +20,7 @@
 (function () {
     'use strict';
 
-    const VERSION = '1.2.0';
+    const VERSION = '1.2.1';
     const BAIDU_URL_REG = RegExp('baidu.com');
     const BAIDU_BAIKE_URL_REG = RegExp('baike.baidu.com');
     const BAIDU_ZHIDAO_URL_REG = RegExp('zhidao.baidu.com/question');
