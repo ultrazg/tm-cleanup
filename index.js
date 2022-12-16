@@ -2,7 +2,7 @@
 // @name                净化
 // @version             1.1.0
 // @description         百度、CSDN页面增强工具
-// @author              g0blin
+// @author              Clearw1ne
 // @match               *://baike.baidu.com/item/*
 // @match               *://zhidao.baidu.com/*
 // @match               *://jingyan.baidu.com/article/*
